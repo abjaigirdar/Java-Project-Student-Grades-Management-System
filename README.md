@@ -1,4 +1,4 @@
-<h1> Java Projet: Student Grades Management System</h1>
+<h1> Java Project: Student Grades Management System</h1>
 
 ### Project Overview
 You will create a system to manage students' grades for a class. The system will:
